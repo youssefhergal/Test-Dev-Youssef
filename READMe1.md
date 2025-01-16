@@ -58,3 +58,10 @@ Ce projet est une application Java qui calcule la probabilité de succès d'un v
     ```bash
     java -jar target/Test_Dev_Youssef-1.0-SNAPSHOT.jar chemin_vers-falcon.json chemin_vers_empire.json
     ```
+---
+## Approche de resolution
+```
+
+
+
+```
